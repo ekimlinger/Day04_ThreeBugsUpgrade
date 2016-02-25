@@ -9,7 +9,7 @@ var arrayScout = ["Scout", "6243", "74750", 5];
 var array = [arrayAtticus, arrayJem, arrayBoo, arrayScout];
 
 //Create variables used to write to the DOM
-var newEl, newText, position;
+var newEl, newText, position, STIarray;
 //Capture the position of insertion into the DOM
 position = document.getElementById('content');
 
